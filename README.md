@@ -8,7 +8,7 @@ This repository contains Python code to analyze and visualize a LEGO set databas
 The LEGO set data was obtained from the following Kaggle dataset:
 
 **Title:** LEGO Database
-**Link:** https://www.kaggle.com/datasets/mterzolo/lego-sets
+**Link:** [https://www.kaggle.com/datasets/mterzolo/lego-sets](https://www.kaggle.com/datasets/rtatman/lego-database?resource=download)
 
 ## Methodology
 - **Data Import:** Load the CSV files into pandas DataFrames.
