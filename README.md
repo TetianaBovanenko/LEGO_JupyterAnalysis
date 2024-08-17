@@ -1,5 +1,5 @@
 # LEGO Set Analysis
-![LEGO Logo](https://github.com/TetianaBovanenko/LEGO_JupyterAnalysis/blob/main/LEGO%20JupyterLogo.jpg?raw=true)
+![LEGO Logo](https://github.com/TetianaBovanenko/LEGO_JupyterAnalysis/blob/main/lego%20project%20logo.jpg?raw=true)
 
 ## Overview
 This repository contains Python code for analyzing and visualizing a LEGO set database. The analysis provides detailed insights into LEGO themes, part categories, color usage, and trends over time. Additionally, the repository includes predictive modeling to forecast future trends in LEGO set releases and parts usage, offering a comprehensive view of both historical data and future expectations.
